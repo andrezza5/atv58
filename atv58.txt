@@ -1,0 +1,13 @@
+Pilares da Segurança da Informação
+
+Existem três pilares da segurança da informação mais populares, que formam a “Tríade CIA”: confidencialidade, integridade e disponibilidade. Porém, com o tempo, foram acrescentados outros dois elementos para reforçar as políticas de proteção de dados: autenticidade e irretratabilidade. Segue abaixo a importância de cada um:
+
+1. Confidencialidade- garante que os dados estejam acessíveis a determinados usuários e protegidos contra pessoas não autorizadas. 
+
+2. Integridade- diz respeito à preservação, precisão, consistência e confiabilidade dos dados durante todo o seu ciclo de vida. 
+
+3. Disponibilidade- Para que um sistema de informação seja útil, é fundamental que seus dados estejam disponíveis sempre que necessário, a disponibilidade é mais um pilar da segurança da informação, que garante o acesso em tempo integral pelos usuários finais.
+
+4. Autenticidade- valida a autorização do usuário para acessar, transmitir e receber determinadas informações. Esse pilar confirma a identidade dos usuários antes de liberar o acesso aos sistemas e recursos, garantindo que não se passem por terceiros. 
+
+5. Irretratabilidade- garante que uma pessoa ou entidade não possa negar a autoria da informação fornecida, como no caso do uso de certificados digitais para transações online e assinatura de documentos eletrônicos.
